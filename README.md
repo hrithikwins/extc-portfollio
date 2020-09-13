@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Attributions
+
+<a href='https://www.freepik.com/vectors/background'>Background vector created by freepik - www.freepik.com</a>
+
 ## Available Scripts
 
 In the project directory, you can run:

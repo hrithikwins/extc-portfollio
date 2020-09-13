@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+.banner-home{
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+.banner-main {
+    background-image: url("../assets/background/circular-cut-outs.jpg");
+    background-size: cover;
+}
+.intro-wave {
+    display: flex;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    align-content: center;
+    justify-content: flex-end;
+    font-weight: 900;
+}
+
+.wave--text {
+    padding: 20px;
+    border: 2px solid rgb(64, 56, 92);
+    background-color: white;
+    color: rgb(64, 56, 92);
+    border-radius: 6px;
+}
+.about-me{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-bottom: 90px;
+}
+.designation {
+    padding: 5px;
+    margin-top: 50px;
+    color: rgb(64, 56, 92);
+    font-family: 'Patrick Hand';
+}
+.jatin-image img {
+    width: auto;
+    height: 90vh;
+    padding-top: 60px;
+}
